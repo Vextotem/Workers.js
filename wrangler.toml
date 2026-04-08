@@ -1,7 +1,4 @@
 name = "iframe-proxy"
 main = "worker.js"
 compatibility_date = "2026-04-08"
-
-compatibility_flags = ["streams_enable_constructors"]
-
 workers_dev = true
